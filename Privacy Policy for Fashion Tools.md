@@ -1,5 +1,5 @@
 
-#PRIVACY POLICY#
+PRIVACY POLICY
 
 **Effective Date: April 06, 2025**
 
