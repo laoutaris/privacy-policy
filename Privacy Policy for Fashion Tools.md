@@ -71,9 +71,9 @@ Fashion Tools does not include external links or integrations (e.g., to brand si
 
 ---
 
-## 7. CChildren'sPrivacy
+## 7. Children's Privacy
 
-Fashion Tools is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we happen to know that such information has been collected, we will take steps to delete it as soon as possible.
+Fashion Tools is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we know that such information has been collected, we will take steps to delete it as soon as possible.
 
 ---
 
@@ -87,7 +87,7 @@ Fashion Tools is not intended for use by children under the age of 13. We do not
 
 ## 9. Changes to This Privacy Policy
 
-We may update this Privacy Policy occasionally to reflect changes in the features (e.g., new tools added in Version 1.0.5) or legal requirements. The updated policy will be posted within the app, and the Effective Date at the top will be revised. We'd like to encourage you to review this policy periodically.
+We may update this Privacy Policy occasionally to reflect changes in the features (e.g., new tools added in Version 1.0.5) or legal requirements. The updated policy will be posted within the app, and the Effective Date at the top will be revised. We want to encourage you to review this policy periodically.
 
 ---
 
